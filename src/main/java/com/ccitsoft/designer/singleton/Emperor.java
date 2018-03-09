@@ -42,4 +42,8 @@ public class Emperor {
 		System.out.println("我就是皇帝朱元璋........");
 	}
 	
+	public static void main(String[] args) {
+		
+	}
+	
 }
